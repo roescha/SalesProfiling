@@ -3,16 +3,16 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.bjss.waitrose</groupId>
-	<artifactId>waitrose-data-analysis</artifactId>
+	<groupId>myshop</groupId>
+	<artifactId>myshop-data-analysis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>Waitrose Data Analysis</name>
-	<description>Waitrose data analysis project</description>
+	<name>MyShop Data Analysis</name>
+	<description>MyShop data analysis project</description>
 
 	<properties>
-		<start-class>com.bjss.waitrose.Application</start-class>
+		<start-class>myshop.Application</start-class>
 		<java.version>1.7</java.version>
 		<guava.version>16.0.1</guava.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

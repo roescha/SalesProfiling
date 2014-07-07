@@ -34,7 +34,7 @@ table {
 
 <body>
 	<div id="wrapper">
-		<h1>Waitrose Product Profile Portal</h1>
+		<h1>MyShop Product Profile Portal</h1>
 		<div id="credentialsDiv">
 			<h3>Please enter your credentials</h3>
 			<div id="invalidDiv">
